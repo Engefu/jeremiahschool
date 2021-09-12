@@ -1,0 +1,8 @@
+Django
+django-markdown
+django-markdown-app
+django-mdeditor
+Markdown
+Pillow
+pytz
+sqlparse
